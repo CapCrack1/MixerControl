@@ -1,0 +1,3 @@
+C:/MixerControl1/build/CMakeFiles/MixerControl.dir
+C:/MixerControl1/build/CMakeFiles/edit_cache.dir
+C:/MixerControl1/build/CMakeFiles/rebuild_cache.dir
