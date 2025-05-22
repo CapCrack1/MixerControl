@@ -3,7 +3,9 @@
 virustotal (https://www.virustotal.com/gui/file/87afef921ab15c8be0f0602a70579b1c139fdb6e0d7a56a906a6bd2cecc3de91?nocache=1)
 
 
-Just open MixerControl.exe and check ip4 link
+Just download folder Mixercontrol
+
+Open MixerControl.exe and check ip4 link
 
 Copy your ipv4 in web browser like http://192.168.??.??:8080
 
