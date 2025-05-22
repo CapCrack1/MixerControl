@@ -1,11 +1,11 @@
-![image](https://github.com/user-attachments/assets/8c0425ea-7681-4d4a-b29b-ceee14ed63e8)
-![image](https://github.com/user-attachments/assets/eec32442-ad94-4830-ad1a-bf6ea9c5da12)
-![image](https://github.com/user-attachments/assets/efa4e8be-2ac5-4ae0-a8f7-faae4206cb9a)
+![image](https://github.com/user-attachments/assets/96a7dd1b-ceb4-444c-bb59-b3b6252c4397)
+![image](https://github.com/user-attachments/assets/cbbd73b3-c46b-4965-ab4a-88157d47a419)
+
 
 virustotal (https://www.virustotal.com/gui/file/87afef921ab15c8be0f0602a70579b1c139fdb6e0d7a56a906a6bd2cecc3de91?nocache=1)
 
 
-Just download folder Mixercontrol
+Just download folder Mixercontrol or releases page last version
 
 Open MixerControl.exe and check ip4 link
 
