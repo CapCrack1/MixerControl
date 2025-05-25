@@ -12,3 +12,6 @@ Open MixerControl.exe and check ip4 link
 Copy your ipv4 in web browser like http://192.168.??.??:8080
 
 Enjoy <3
+
+P.s
+(media buttons don't work when easy anti-cheat is running)
